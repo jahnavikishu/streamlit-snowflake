@@ -1,0 +1,21 @@
+CUSTOMER_ID,FIRST_NAME,LAST_NAME,EMAIL,PHONE,SEGMENT,CITY,STATE,COUNTRY,UPDATED_AT
+CU0001,Arjun,Mehta,arjun.mehta@mail.com,9300000001,REGULAR,Mumbai,MH,India,2026-01-01 09:00:00
+CU0002,Kavya,Iyer,kavya.iyer@mail.com,9300000002,VIP,Chennai,TN,India,2026-01-01 09:01:00
+CU0003,Rahul,Jain,rahul.jain@mail.com,9300000003,PREMIUM,Delhi,DL,India,2026-01-01 09:02:00
+CU0004,Sneha,Nair,sneha.nair@mail.com,9300000004,REGULAR,Kochi,KL,India,2026-01-01 09:03:00
+CU0005,Vivek,Reddy,vivek.reddy@mail.com,9300000005,REGULAR,Hyderabad,TS,India,2026-01-01 09:04:00
+CU0006,Divya,Patel,divya.patel@mail.com,9300000006,PREMIUM,Ahmedabad,GJ,India,2026-01-01 09:05:00
+CU0007,Neha,Gupta,neha.gupta@mail.com,9300000007,VIP,Noida,UP,India,2026-01-01 09:06:00
+CU0008,Sanjay,Kumar,sanjay.kumar@mail.com,9300000008,REGULAR,Bengaluru,KA,India,2026-01-01 09:07:00
+CU0009,Pooja,Saxena,pooja.saxena@mail.com,9300000009,REGULAR,Lucknow,UP,India,2026-01-01 09:08:00
+CU0010,Amit,Singh,amit.singh@mail.com,9300000010,PREMIUM,Pune,MH,India,2026-01-01 09:09:00
+CU0011,Meera,Das,meera.das@mail.com,9300000011,REGULAR,Kolkata,WB,India,2026-01-01 09:10:00
+CU0012,Karthik,Raj,karthik.raj@mail.com,9300000012,VIP,Coimbatore,TN,India,2026-01-01 09:11:00
+CU0013,John,David,john.david@mail.com,9300000013,REGULAR,Mumbai,MH,India,2026-01-01 09:12:00
+CU0014,Sunita,Verma,sunita.verma@mail.com,9300000014,PREMIUM,Jaipur,RJ,India,2026-01-01 09:13:00
+CU0015,Ajay,Mishra,ajay.mishra@mail.com,9300000015,REGULAR,Bhopal,MP,India,2026-01-01 09:14:00
+CU0016,Lakshmi,Menon,lakshmi.menon@mail.com,9300000016,REGULAR,Trivandrum,KL,India,2026-01-01 09:15:00
+CU0017,Naveen,Chopra,naveen.chopra@mail.com,9300000017,VIP,Delhi,DL,India,2026-01-01 09:16:00
+CU0018,Anita,Sharma,anita.sharma@mail.com,9300000018,REGULAR,Bengaluru,KA,India,2026-01-01 09:17:00
+CU0019,Deepa,Iyer,deepa.iyer2@mail.com,9300000019,PREMIUM,Chennai,TN,India,2026-01-01 09:18:00
+CU0020,Ravi,Kumar,ravi.kumar2@mail.com,9300000020,REGULAR,Chennai,TN,India,2026-01-01 09:19:00
